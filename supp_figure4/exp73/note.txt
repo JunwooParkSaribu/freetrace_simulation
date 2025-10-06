@@ -1,0 +1,10 @@
+Experimentation number: 73
+Video length: 200
+Nb of videos: 40
+
+T (max. traj. length): 8
+N: [128, 128, 128]
+
+H: [0.1, 0.5, 0.9]
+K: [0.4, 1.5, 1.5]
+Drop rate: 0.1
