@@ -1,0 +1,9 @@
+Experimentation number: 110
+Video length: 200
+Nb of videos: 20
+
+N: 128
+
+H: [0.1, 0.5]
+K: [0.4, 1.5]
+Drop rate: 0.0
